@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="GuessBattle" format=3 uid="uid://b8w83ummhd6ij"]
+
+[ext_resource type="Script" uid="uid://dfhffhaecaauq" path="res://Base Resource/GuessBattle.gd" id="1_u7urw"]
+
+[resource]
+script = ExtResource("1_u7urw")
+name_of_battle = "Battle of Sekigahara"
+year_of_battle = "1600"
+combatants = "Ishida Mitsunari and Tokugawa Leyasu (loyal to)"
+location = "Mino Province"
+metadata/_custom_type_script = "uid://dfhffhaecaauq"
